@@ -1,0 +1,1 @@
+Java programs perform I/O stream is an abstraction that either produces or consumes information. A stream is linked to physical device by the Java I/O system.
